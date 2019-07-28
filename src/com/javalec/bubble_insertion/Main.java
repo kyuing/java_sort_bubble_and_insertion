@@ -2,7 +2,7 @@ package com.javalec.bubble_insertion;
 
 public class Main {
 
-//main
+//main method is here
   
   public static void main(String[] args) {
 
